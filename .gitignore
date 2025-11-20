@@ -1,5 +1,10 @@
 # Environment
 .venv/
+.env
 
 # Dataset
 Video_Games_Sales_as_at_22_Dec_2016.csv
+smm2.csv
+
+# More
+img
